@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Basic Utils tests FilterData 1`] = `
+Array [
+  Object {
+    "currentDay": "Tuesday",
+    "times": Array [
+      Object {
+        "dt": 1531785600,
+        "main": Object {
+          "temp": 293.05,
+        },
+      },
+      Object {
+        "dt": 1531796400,
+        "main": Object {
+          "temp": 293.05,
+        },
+      },
+    ],
+  },
+  Object {
+    "currentDay": "Wednesday",
+    "times": Array [],
+  },
+  Object {
+    "currentDay": "Thursday",
+    "times": Array [],
+  },
+  Object {
+    "currentDay": "Friday",
+    "times": Array [],
+  },
+  Object {
+    "currentDay": "Saturday",
+    "times": Array [],
+  },
+  Object {
+    "currentDay": "Sunday",
+    "times": Array [],
+  },
+]
+`;

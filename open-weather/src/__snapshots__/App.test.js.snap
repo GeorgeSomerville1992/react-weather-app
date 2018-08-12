@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Weather app tests renders loading the table without mock data 1`] = `
+"<App>
+  <styled.div>
+    <div className=\\"sc-gzVnrw fiZJyz\\">
+      <styled.div>
+        <div className=\\"sc-htoDjs bxSFQy\\">
+          Loading....
+        </div>
+      </styled.div>
+      <styled.div>
+        <div className=\\"sc-dnqmqq euuIvu\\" />
+      </styled.div>
+      <styled.div>
+        <div className=\\"sc-iwsKbI czDOXk\\">
+          <WeatherNavigation handleCityChange={[Function]} handleGetWeatherFromCsvFile={[Function]} handleSelectApiDataSource={[Function]}>
+            <styled.div>
+              <div className=\\"sc-bZQynM gZCdoJ\\">
+                <styled.div>
+                  <div className=\\"sc-EHOje eItBph\\">
+                     Select a City 
+                  </div>
+                </styled.div>
+                <styled.div>
+                  <div className=\\"sc-ifAKCX ZmwtQ\\">
+                    <WithStyles(Button) onClick={[Function]}>
+                      <Button classes={{...}} onClick={[Function]} color=\\"default\\" component=\\"button\\" disabled={false} disableFocusRipple={false} fullWidth={false} mini={false} size=\\"medium\\" type=\\"button\\" variant=\\"text\\">
+                        <WithStyles(ButtonBase) className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\">
+                          <ButtonBase classes={{...}} className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\" centerRipple={false} disableRipple={false} disableTouchRipple={false} tabIndex=\\"0\\">
+                            <button onBlur={[Function: handleEvent]} onFocus={[Function]} onKeyDown={[Function]} onKeyUp={[Function]} onMouseDown={[Function: handleEvent]} onMouseLeave={[Function: handleEvent]} onMouseUp={[Function: handleEvent]} onTouchEnd={[Function: handleEvent]} onTouchMove={[Function: handleEvent]} onTouchStart={[Function: handleEvent]} tabIndex=\\"0\\" className=\\"MuiButtonBase-root-169 MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" type=\\"button\\" disabled={false} onClick={[Function]}>
+                              <span className=\\"MuiButton-label-146\\">
+                                London
+                              </span>
+                              <WithStyles(TouchRipple) innerRef={[Function]} center={false}>
+                                <TouchRipple classes={{...}} center={false}>
+                                  <TransitionGroup component=\\"span\\" enter={true} exit={true} className=\\"MuiTouchRipple-root-172\\" childFactory={[Function: childFactory]}>
+                                    <span className=\\"MuiTouchRipple-root-172\\" />
+                                  </TransitionGroup>
+                                </TouchRipple>
+                              </WithStyles(TouchRipple)>
+                            </button>
+                          </ButtonBase>
+                        </WithStyles(ButtonBase)>
+                      </Button>
+                    </WithStyles(Button)>
+                    <WithStyles(Button) onClick={[Function]}>
+                      <Button classes={{...}} onClick={[Function]} color=\\"default\\" component=\\"button\\" disabled={false} disableFocusRipple={false} fullWidth={false} mini={false} size=\\"medium\\" type=\\"button\\" variant=\\"text\\">
+                        <WithStyles(ButtonBase) className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\">
+                          <ButtonBase classes={{...}} className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\" centerRipple={false} disableRipple={false} disableTouchRipple={false} tabIndex=\\"0\\">
+                            <button onBlur={[Function: handleEvent]} onFocus={[Function]} onKeyDown={[Function]} onKeyUp={[Function]} onMouseDown={[Function: handleEvent]} onMouseLeave={[Function: handleEvent]} onMouseUp={[Function: handleEvent]} onTouchEnd={[Function: handleEvent]} onTouchMove={[Function: handleEvent]} onTouchStart={[Function: handleEvent]} tabIndex=\\"0\\" className=\\"MuiButtonBase-root-169 MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" type=\\"button\\" disabled={false} onClick={[Function]}>
+                              <span className=\\"MuiButton-label-146\\">
+                                Liverpool
+                              </span>
+                              <WithStyles(TouchRipple) innerRef={[Function]} center={false}>
+                                <TouchRipple classes={{...}} center={false}>
+                                  <TransitionGroup component=\\"span\\" enter={true} exit={true} className=\\"MuiTouchRipple-root-172\\" childFactory={[Function: childFactory]}>
+                                    <span className=\\"MuiTouchRipple-root-172\\" />
+                                  </TransitionGroup>
+                                </TouchRipple>
+                              </WithStyles(TouchRipple)>
+                            </button>
+                          </ButtonBase>
+                        </WithStyles(ButtonBase)>
+                      </Button>
+                    </WithStyles(Button)>
+                    <WithStyles(Button) onClick={[Function]}>
+                      <Button classes={{...}} onClick={[Function]} color=\\"default\\" component=\\"button\\" disabled={false} disableFocusRipple={false} fullWidth={false} mini={false} size=\\"medium\\" type=\\"button\\" variant=\\"text\\">
+                        <WithStyles(ButtonBase) className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\">
+                          <ButtonBase classes={{...}} className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\" centerRipple={false} disableRipple={false} disableTouchRipple={false} tabIndex=\\"0\\">
+                            <button onBlur={[Function: handleEvent]} onFocus={[Function]} onKeyDown={[Function]} onKeyUp={[Function]} onMouseDown={[Function: handleEvent]} onMouseLeave={[Function: handleEvent]} onMouseUp={[Function: handleEvent]} onTouchEnd={[Function: handleEvent]} onTouchMove={[Function: handleEvent]} onTouchStart={[Function: handleEvent]} tabIndex=\\"0\\" className=\\"MuiButtonBase-root-169 MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" type=\\"button\\" disabled={false} onClick={[Function]}>
+                              <span className=\\"MuiButton-label-146\\">
+                                Manchester
+                              </span>
+                              <WithStyles(TouchRipple) innerRef={[Function]} center={false}>
+                                <TouchRipple classes={{...}} center={false}>
+                                  <TransitionGroup component=\\"span\\" enter={true} exit={true} className=\\"MuiTouchRipple-root-172\\" childFactory={[Function: childFactory]}>
+                                    <span className=\\"MuiTouchRipple-root-172\\" />
+                                  </TransitionGroup>
+                                </TouchRipple>
+                              </WithStyles(TouchRipple)>
+                            </button>
+                          </ButtonBase>
+                        </WithStyles(ButtonBase)>
+                      </Button>
+                    </WithStyles(Button)>
+                    <WithStyles(Button) onClick={[Function]}>
+                      <Button classes={{...}} onClick={[Function]} color=\\"default\\" component=\\"button\\" disabled={false} disableFocusRipple={false} fullWidth={false} mini={false} size=\\"medium\\" type=\\"button\\" variant=\\"text\\">
+                        <WithStyles(ButtonBase) className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\">
+                          <ButtonBase classes={{...}} className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\" centerRipple={false} disableRipple={false} disableTouchRipple={false} tabIndex=\\"0\\">
+                            <button onBlur={[Function: handleEvent]} onFocus={[Function]} onKeyDown={[Function]} onKeyUp={[Function]} onMouseDown={[Function: handleEvent]} onMouseLeave={[Function: handleEvent]} onMouseUp={[Function: handleEvent]} onTouchEnd={[Function: handleEvent]} onTouchMove={[Function: handleEvent]} onTouchStart={[Function: handleEvent]} tabIndex=\\"0\\" className=\\"MuiButtonBase-root-169 MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" type=\\"button\\" disabled={false} onClick={[Function]}>
+                              <span className=\\"MuiButton-label-146\\">
+                                Oxford
+                              </span>
+                              <WithStyles(TouchRipple) innerRef={[Function]} center={false}>
+                                <TouchRipple classes={{...}} center={false}>
+                                  <TransitionGroup component=\\"span\\" enter={true} exit={true} className=\\"MuiTouchRipple-root-172\\" childFactory={[Function: childFactory]}>
+                                    <span className=\\"MuiTouchRipple-root-172\\" />
+                                  </TransitionGroup>
+                                </TouchRipple>
+                              </WithStyles(TouchRipple)>
+                            </button>
+                          </ButtonBase>
+                        </WithStyles(ButtonBase)>
+                      </Button>
+                    </WithStyles(Button)>
+                    <WithStyles(Button) onClick={[Function]}>
+                      <Button classes={{...}} onClick={[Function]} color=\\"default\\" component=\\"button\\" disabled={false} disableFocusRipple={false} fullWidth={false} mini={false} size=\\"medium\\" type=\\"button\\" variant=\\"text\\">
+                        <WithStyles(ButtonBase) className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\">
+                          <ButtonBase classes={{...}} className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\" centerRipple={false} disableRipple={false} disableTouchRipple={false} tabIndex=\\"0\\">
+                            <button onBlur={[Function: handleEvent]} onFocus={[Function]} onKeyDown={[Function]} onKeyUp={[Function]} onMouseDown={[Function: handleEvent]} onMouseLeave={[Function: handleEvent]} onMouseUp={[Function: handleEvent]} onTouchEnd={[Function: handleEvent]} onTouchMove={[Function: handleEvent]} onTouchStart={[Function: handleEvent]} tabIndex=\\"0\\" className=\\"MuiButtonBase-root-169 MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" type=\\"button\\" disabled={false} onClick={[Function]}>
+                              <span className=\\"MuiButton-label-146\\">
+                                Newcastle
+                              </span>
+                              <WithStyles(TouchRipple) innerRef={[Function]} center={false}>
+                                <TouchRipple classes={{...}} center={false}>
+                                  <TransitionGroup component=\\"span\\" enter={true} exit={true} className=\\"MuiTouchRipple-root-172\\" childFactory={[Function: childFactory]}>
+                                    <span className=\\"MuiTouchRipple-root-172\\" />
+                                  </TransitionGroup>
+                                </TouchRipple>
+                              </WithStyles(TouchRipple)>
+                            </button>
+                          </ButtonBase>
+                        </WithStyles(ButtonBase)>
+                      </Button>
+                    </WithStyles(Button)>
+                  </div>
+                </styled.div>
+                <styled.div>
+                  <div className=\\"sc-EHOje eItBph\\">
+                     Select a Data Source 
+                  </div>
+                </styled.div>
+                <styled.div>
+                  <div className=\\"sc-ifAKCX ZmwtQ\\">
+                    <a label=\\"csv\\" onFileLoaded={[Function]}>
+                      <div className=\\"csv-reader-input\\">
+                        <label>
+                          csv
+                        </label>
+                        <input className=\\"csv-input\\" type=\\"file\\" id={{...}} accept=\\"text/csv\\" onChange={[Function: onChange]} />
+                      </div>
+                    </a>
+                    <WithStyles(Button) onClick={[Function]}>
+                      <Button classes={{...}} onClick={[Function]} color=\\"default\\" component=\\"button\\" disabled={false} disableFocusRipple={false} fullWidth={false} mini={false} size=\\"medium\\" type=\\"button\\" variant=\\"text\\">
+                        <WithStyles(ButtonBase) className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\">
+                          <ButtonBase classes={{...}} className=\\"MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" disabled={false} focusRipple={true} focusVisibleClassName=\\"MuiButton-focusVisible-162\\" onClick={[Function]} component=\\"button\\" type=\\"button\\" centerRipple={false} disableRipple={false} disableTouchRipple={false} tabIndex=\\"0\\">
+                            <button onBlur={[Function: handleEvent]} onFocus={[Function]} onKeyDown={[Function]} onKeyUp={[Function]} onMouseDown={[Function: handleEvent]} onMouseLeave={[Function: handleEvent]} onMouseUp={[Function: handleEvent]} onTouchEnd={[Function: handleEvent]} onTouchMove={[Function: handleEvent]} onTouchStart={[Function: handleEvent]} tabIndex=\\"0\\" className=\\"MuiButtonBase-root-169 MuiButton-root-145 MuiButton-text-147 MuiButton-flat-150\\" type=\\"button\\" disabled={false} onClick={[Function]}>
+                              <span className=\\"MuiButton-label-146\\">
+                                API
+                              </span>
+                              <WithStyles(TouchRipple) innerRef={[Function]} center={false}>
+                                <TouchRipple classes={{...}} center={false}>
+                                  <TransitionGroup component=\\"span\\" enter={true} exit={true} className=\\"MuiTouchRipple-root-172\\" childFactory={[Function: childFactory]}>
+                                    <span className=\\"MuiTouchRipple-root-172\\" />
+                                  </TransitionGroup>
+                                </TouchRipple>
+                              </WithStyles(TouchRipple)>
+                            </button>
+                          </ButtonBase>
+                        </WithStyles(ButtonBase)>
+                      </Button>
+                    </WithStyles(Button)>
+                  </div>
+                </styled.div>
+              </div>
+            </styled.div>
+          </WeatherNavigation>
+        </div>
+      </styled.div>
+    </div>
+  </styled.div>
+</App>"
+`;

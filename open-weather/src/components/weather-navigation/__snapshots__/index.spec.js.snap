@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WeatherNavigation> renders structure 1`] = `
+<div
+  className="sc-htpNat gPdQJU"
+>
+  <div
+    className="sc-bwzfXH cPNaNQ"
+  >
+     Select a City 
+  </div>
+  <div
+    className="sc-bdVaJa jZHZoZ"
+  >
+    <button
+      className="MuiButtonBase-root-25 MuiButton-root-1 MuiButton-text-3 MuiButton-flat-6"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={undefined}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="MuiButton-label-2"
+      >
+        London
+      </span>
+      <span
+        className="MuiTouchRipple-root-28"
+      />
+    </button>
+    <button
+      className="MuiButtonBase-root-25 MuiButton-root-1 MuiButton-text-3 MuiButton-flat-6"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={undefined}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="MuiButton-label-2"
+      >
+        Liverpool
+      </span>
+      <span
+        className="MuiTouchRipple-root-28"
+      />
+    </button>
+    <button
+      className="MuiButtonBase-root-25 MuiButton-root-1 MuiButton-text-3 MuiButton-flat-6"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={undefined}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="MuiButton-label-2"
+      >
+        Manchester
+      </span>
+      <span
+        className="MuiTouchRipple-root-28"
+      />
+    </button>
+    <button
+      className="MuiButtonBase-root-25 MuiButton-root-1 MuiButton-text-3 MuiButton-flat-6"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={undefined}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="MuiButton-label-2"
+      >
+        Oxford
+      </span>
+      <span
+        className="MuiTouchRipple-root-28"
+      />
+    </button>
+    <button
+      className="MuiButtonBase-root-25 MuiButton-root-1 MuiButton-text-3 MuiButton-flat-6"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={undefined}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="MuiButton-label-2"
+      >
+        Newcastle
+      </span>
+      <span
+        className="MuiTouchRipple-root-28"
+      />
+    </button>
+  </div>
+  <div
+    className="sc-bwzfXH cPNaNQ"
+  >
+     Select a Data Source 
+  </div>
+  <div
+    className="sc-bdVaJa jZHZoZ"
+  >
+    <div
+      className="csv-reader-input"
+    >
+      <label>
+        csv
+      </label>
+      <input
+        accept="text/csv"
+        className="csv-input"
+        id={null}
+        onChange={[Function]}
+        type="file"
+      />
+    </div>
+    <button
+      className="MuiButtonBase-root-25 MuiButton-root-1 MuiButton-text-3 MuiButton-flat-6"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="MuiButton-label-2"
+      >
+        API
+      </span>
+      <span
+        className="MuiTouchRipple-root-28"
+      />
+    </button>
+  </div>
+</div>
+`;

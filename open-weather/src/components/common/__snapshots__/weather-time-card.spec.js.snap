@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WeatherTimeCard> renders structure 1`] = `
+<div
+  className="MuiPaper-root-2 MuiPaper-elevation1-5 MuiPaper-rounded-3 MuiCard-root-1 sc-bwzfXH zvJZ"
+>
+  <div
+    className="MuiCardMedia-root-29"
+    src={undefined}
+    style={
+      Object {
+        "backgroundImage": "url(\\"/static/images/cards/contemplative-reptile.jpg\\")",
+      }
+    }
+    title="Contemplative Reptile"
+  />
+  <div
+    className="MuiCardContent-root-31"
+  >
+    <p
+      className="MuiTypography-root-32 MuiTypography-body1-41"
+    >
+      7:07 AM
+    </p>
+    <p
+      className="MuiTypography-root-32 MuiTypography-body1-41"
+    >
+      37
+       °C
+    </p>
+  </div>
+</div>
+`;

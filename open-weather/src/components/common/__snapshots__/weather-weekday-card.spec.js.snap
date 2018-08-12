@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WeatherWeekDayCard> renders structure 1`] = `
+<div
+  className="MuiPaper-root-2 MuiPaper-elevation1-5 MuiPaper-rounded-3 MuiCard-root-1 sc-bdVaJa eqLehW"
+>
+  <div
+    className="MuiCardMedia-root-29"
+    src={undefined}
+    style={
+      Object {
+        "backgroundImage": "url(\\"/static/images/cards/contemplative-reptile.jpg\\")",
+      }
+    }
+    title="Contemplative Reptile"
+  />
+  <div
+    className="MuiCardContent-root-31"
+  >
+    <h4
+      className="MuiTypography-root-32 MuiTypography-body1-41 MuiTypography-gutterBottom-49"
+    >
+      Sunday
+    </h4>
+  </div>
+</div>
+`;
